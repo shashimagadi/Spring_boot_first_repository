@@ -11,6 +11,7 @@ const LoginPage = () => {
     // Initialize MDB components
     initMDB({ Input });
   }, []);
+  console.log("Login page........................");
   return (
     <div>
       <Card className="container">
