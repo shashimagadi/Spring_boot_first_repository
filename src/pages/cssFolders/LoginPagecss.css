@@ -1,0 +1,47 @@
+/* html,
+body {
+  height: 100%;
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+} */
+
+/* .container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 150px;
+
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(211, 87, 87, 0.1);
+} */
+
+/* .card-title {
+  text-align: left;
+  --mdb-card-title-color: red;
+} */
+
+/* .form-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh; 
+}
+
+.form-wrapper {
+  width: 300px; 
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+} */
+
+/* .checkboxText {
+  font-size: 12px;
+  text-align: left;
+}
+
+.checkboxText input[type="checkbox"] {
+  margin-right: 10px;
+  margin-bottom: 7px;
+} */
